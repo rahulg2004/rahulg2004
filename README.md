@@ -1,47 +1,45 @@
+<h1 align="center">Hello World! I'm Rahul Gupta! ⚡</h1>
+
 <div align="center">
-
-<!-- HEADER WAVE BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=RAHUL%20GUPTA&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=GEN%20AI%20ENGINEERING%20%E2%80%A2%20CYBERSECURITY%20%E2%80%A2%20FULL-STACK%20SYSTEMS&descAlignY=60&descSize=16" width="100%" alt="Rahul Gupta Cyber Header"/>
-
-<!-- PRIMARY TYPING TERMINAL PROMPT -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=%3E+Initializing+Neural+Architecture+%26+Cyber+Protocols...;%3E+Generative+AI+Specialist+%26+Cybersecurity+Researcher;%3E+Full-Stack+Developer%3A+Python+%E2%80%A2+C%2B%2B+%E2%80%A2+React+%E2%80%A2+Node.js;%3E+Engineering+Agentic+AI+%26+Fortified+Digital+Systems;%3E+Status%3A+Open+for+High-Impact+Roles+%26+Collaborations" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- REAL-TIME ANIMATED STATUS TICKER -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2400&pause=600&color=22c55e&center=true&vCenter=true&width=650&lines=%E2%9A%A1+CURRENTLY+BUILDING%3A+Autonomous+AI+Agents+%26+RAG+Pipelines;%E2%9A%A1+CURRENTLY+RESEARCHING%3A+Offensive+%26+Defensive+Cybersecurity;%E2%9A%A1+CURRENTLY+SEEKING%3A+SDE+%2F+AI+Internships+(Summer+%26+Fall+2026)" alt="Real-time Status Ticker"/>
-</a>
-
-<br/><br/>
-
-<!-- QUICK NAVIGATION HUD -->
-<p align="center">
-  <a href="#-system-telemetry"><b>[ 📡 Telemetry ]</b></a> &nbsp;•&nbsp;
-  <a href="#-core-intelligence"><b>[ 🧠 Core Intel ]</b></a> &nbsp;•&nbsp;
-  <a href="#-featured-deployments"><b>[ 🚀 Deployments ]</b></a> &nbsp;•&nbsp;
-  <a href="#-tech-arsenal"><b>[ 🛠️ Arsenal ]</b></a> &nbsp;•&nbsp;
-  <a href="#-analytics--metrics"><b>[ 📊 Analytics ]</b></a> &nbsp;•&nbsp;
-  <a href="#-secure-uplink"><b>[ 📬 Transmission ]</b></a>
-</p>
-
-<!-- LIVE STATUS HUD CHIPS -->
-<p align="center">
+  <a href="https://github.com/rahulg2004">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Rahul%20Gupta&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Gen%20AI%20Engineering%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Full-Stack%20Systems&descAlignY=60&descSize=16" width="100%" alt="Rahul Gupta Banner" />
+  </a>
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=%3E+Generative+AI+Specialist+%26+Cybersecurity+Researcher;%3E+Full-Stack+Developer%3A+Python+%E2%80%A2+C%2B%2B+%E2%80%A2+React+%E2%80%A2+Node.js;%3E+Engineering+Agentic+AI+%26+Fortified+Digital+Systems;%3E+Status%3A+Open+for+High-Impact+Roles+%26+Collaborations" alt="Typing SVG" />
+  </a>
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2400&pause=600&color=22c55e&center=true&vCenter=true&width=650&lines=%E2%9A%A1+CURRENTLY+BUILDING%3A+Autonomous+AI+Agents+%26+RAG+Pipelines;%E2%9A%A1+CURRENTLY+RESEARCHING%3A+Offensive+%26+Defensive+Cybersecurity;%E2%9A%A1+CURRENTLY+SEEKING%3A+SDE+%2F+AI+Internships+(Summer+%26+Fall+2026)" alt="Real-time Status Ticker"/>
+  </a>
+  <br/><br/>
   <img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE-00f2fe?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0d1117" alt="System Status"/>
-  <img src="https://img.shields.io/badge/ROLE-3RD_YEAR_B.SC_CS-38bdf8?style=for-the-badge&logo=academia&logoColor=black&labelColor=0d1117" alt="Academic Role"/>
+  <img src="https://img.shields.io/badge/ROLE-3RD_YEAR_B.SC_CS-38bdf8?style=for-the-badge&logo=academia&logoColor=black&labelColor=0d1117" alt="Role"/>
   <img src="https://img.shields.io/badge/OPEN_FOR-INTERNSHIPS_%26_COLLABS-22c55e?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=0d1117" alt="Open For"/>
   <img src="https://komarev.com/ghpvc/?username=rahulg2004&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/rahulg2004?style=for-the-badge&color=38bdf8&labelColor=0d1117&logo=github&logoColor=white" alt="Followers"/>
-</p>
-
 </div>
 
-<br/>
+<h4 align="center">
+  <b><a href="#introduction">Introduction</a></b>
+  •
+  <b><a href="#featured-projects">Featured Projects</a></b>
+  •
+  <b><a href="#project-archive">Project Archive</a></b>
+  •
+  <b><a href="#tech-arsenal">Tech Arsenal</a></b>
+  •
+  <b><a href="#github-telemetry">GitHub Telemetry</a></b>
+  •
+  <b><a href="#diagnostics">Diagnostics</a></b>
+  •
+  <b><a href="#contact-me">Contact Me</a></b>
+</h4>
 
-<a id="-core-intelligence"></a>
-### 🧠 `[01 // SYSTEM_TELEMETRY]` Core Intelligence & Architecture
+<h2 id="introduction">Introduction</h2>
+<p>
+  I am a 3rd Year B.Sc. Computer Science student at the University of Delhi (KMV), dedicated to <b>Generative AI Systems</b>, <b>Autonomous Agents</b>, and <b>Defensive Cybersecurity</b>. I bridge the gap between low-level performance engineering (C++) and next-generation intelligence (Google Gemini, OpenAI, RAG, and Streamlit).
+</p>
 
 ```typescript
 // 🛰️ INITIALIZING RUNTIME NODE // rahulg2004@github-telemetry
@@ -69,185 +67,205 @@ const rahulGupta: SecurityResearcher & AIEngineer = {
 };
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&animation=scaleIn" width="100%"/>
+<h2 id="featured-projects">Featured Projects</h2>
+<p>Production-grade flagship deployments spanning Generative AI, Cryptographic Security, Computer Vision, and Core Systems Engineering:</p>
 
-<a id="-featured-deployments"></a>
-### 🚀 `[02 // FEATURED_DEPLOYMENTS]` Key Projects Matrix
-
-<!-- ANIMATED TERMINAL HEADER FOR PROJECTS -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+FLAGSHIP+DEPLOYMENTS...;%3E+AI+AGENTS+%E2%80%A2+SECURITY+SYSTEMS+%E2%80%A2+MULTIMODAL+STUDIOS;%3E+4+CORE+NODES+ONLINE+%7C+100%25+TEST+COVERAGE;%3E+SELECT+A+SYSTEM+NODE+BELOW+TO+INSPECT" alt="Projects Typing Terminal"/>
-  </a>
-</div>
-
-<br/>
-
-<!-- ==================== PROJECT 1: AI CHATBOT ==================== -->
-<table width="100%">
-  <tr>
-    <td width="38%" align="center" valign="middle">
-      <a href="https://github.com/rahulg2004/DecodeLabs-Project-1-Custom-AI-Chatbot-rahulgupta">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=rahulg2004&repo=DecodeLabs-Project-1-Custom-AI-Chatbot-rahulgupta&theme=tokyonight&border_color=38bdf8&title_color=38bdf8&text_color=94a3b8" width="100%" alt="DecodeLabs Custom AI Chatbot Pin"/>
-      </a>
-      <br/>
-      <a href="https://github.com/rahulg2004/DecodeLabs-Project-1-Custom-AI-Chatbot-rahulgupta">
-        <img src="https://img.shields.io/badge/Launch_Repository-%E2%96%B6-00f2fe?style=for-the-badge&labelColor=0d1117" alt="Launch Repo"/>
-      </a>
-    </td>
-    <td width="62%" valign="top">
-      <h3>🤖 Custom AI Conversational Agent</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Classification-AI_Agent-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="AI Agent"/>
-        <img src="https://img.shields.io/badge/Status-Active_Deployed-22c55e?style=flat-square" alt="Status Active"/>
-        <img src="https://img.shields.io/badge/Org-DecodeLabs-38bdf8?style=flat-square" alt="DecodeLabs"/>
-      </p>
-      <p>An intelligent multi-turn conversational agent powered by <b>Google Gemini</b>, engineered with persistent in-memory dialog state retention and live Google Search grounding for verifiable, real-time facts.</p>
-      <ul>
-        <li><b>Dynamic Memory:</b> In-memory state store maintaining context across extended multi-turn conversations.</li>
-        <li><b>Search Grounding:</b> Real-time verification via Google Search integration to eliminate hallucinations.</li>
-        <li><b>Tech Stack:</b> <code>Google Gemini API</code> • <code>Python</code> • <code>Search Grounding</code> • <code>REST</code></li>
-      </ul>
-    </td>
-  </tr>
+<table>
+  <thead>
+    <tr>
+      <th width="50%">🤖 Custom AI Conversational Agent</th>
+      <th width="50%">🔐 Password Guard Locket</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <div align="center">
+          <a href="https://github.com/rahulg2004/DecodeLabs-Project-1-Custom-AI-Chatbot-rahulgupta">
+            <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=rahulg2004&repo=DecodeLabs-Project-1-Custom-AI-Chatbot-rahulgupta&theme=tokyonight&border_color=38bdf8&title_color=38bdf8&text_color=94a3b8" width="100%" alt="DecodeLabs Custom AI Chatbot Pin"/>
+          </a>
+        </div>
+        <br/>
+        <b>Key Highlights:</b>
+        <ul>
+          <li>Intelligent Google Gemini engine with persistent in-memory conversation retention.</li>
+          <li>Context-aware dialogue synthesis with real-time Google Search grounding.</li>
+          <li>Multi-turn retention for accurate, verified responses without hallucinations.</li>
+        </ul>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/Search_API-4285F4?style=flat-square&logo=google&logoColor=white" alt="Search API"/>
+        </p>
+        <p align="center">
+          <a href="https://github.com/rahulg2004/DecodeLabs-Project-1-Custom-AI-Chatbot-rahulgupta">
+            <img src="https://img.shields.io/badge/Launch_Repository-%E2%96%B6-00f2fe?style=for-the-badge&labelColor=0d1117" alt="Launch Repo"/>
+          </a>
+        </p>
+      </td>
+      <td valign="top">
+        <div align="center">
+          <a href="https://github.com/rahulg2004/password-guard-locket">
+            <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=rahulg2004&repo=password-guard-locket&theme=tokyonight&border_color=38bdf8&title_color=38bdf8&text_color=94a3b8" width="100%" alt="Password Guard Locket Pin"/>
+          </a>
+        </div>
+        <br/>
+        <b>Key Highlights:</b>
+        <ul>
+          <li>Real-time entropy and vulnerability scoring engine against password dictionaries.</li>
+          <li>Dynamic security insight generator highlighting structural password weaknesses.</li>
+          <li>High-entropy cryptographic password generator tailored for zero-trust defense.</li>
+        </ul>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Cybersecurity-FF0055?style=flat-square&logo=shield&logoColor=white" alt="Cybersecurity"/>
+          <img src="https://img.shields.io/badge/Entropy_Rating-A%2B-00f2fe?style=flat-square" alt="Entropy"/>
+          <img src="https://img.shields.io/badge/Zero_Trust-22c55e?style=flat-square" alt="Zero Trust"/>
+        </p>
+        <p align="center">
+          <a href="https://github.com/rahulg2004/password-guard-locket">
+            <img src="https://img.shields.io/badge/Launch_Repository-%E2%96%B6-00f2fe?style=for-the-badge&labelColor=0d1117" alt="Launch Repo"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-<!-- ==================== PROJECT 2: PASSWORD GUARD LOCKET ==================== -->
-<table width="100%">
-  <tr>
-    <td width="38%" align="center" valign="middle">
-      <a href="https://github.com/rahulg2004/password-guard-locket">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=rahulg2004&repo=password-guard-locket&theme=tokyonight&border_color=38bdf8&title_color=38bdf8&text_color=94a3b8" width="100%" alt="Password Guard Locket Pin"/>
-      </a>
-      <br/>
-      <a href="https://github.com/rahulg2004/password-guard-locket">
-        <img src="https://img.shields.io/badge/Launch_Repository-%E2%96%B6-00f2fe?style=for-the-badge&labelColor=0d1117" alt="Launch Repo"/>
-      </a>
-    </td>
-    <td width="62%" valign="top">
-      <h3>🔐 Password Guard Locket</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Classification-Cybersecurity-FF0055?style=flat-square&logo=shield&logoColor=white" alt="Cybersecurity"/>
-        <img src="https://img.shields.io/badge/Entropy_Rating-A%2B_Military_Grade-00f2fe?style=flat-square" alt="Entropy Rating"/>
-        <img src="https://img.shields.io/badge/Defense-Zero_Trust-22c55e?style=flat-square" alt="Zero Trust"/>
-      </p>
-      <p>A comprehensive cryptographic utility that evaluates, scores, and fortifies credentials in real time using algorithmic entropy scoring, vulnerability diagnostics, and high-entropy generation.</p>
-      <ul>
-        <li><b>Real-Time Entropy Engine:</b> Analyzes bit-strength, dictionary patterns, and character diversity on-the-fly.</li>
-        <li><b>Diagnostic Insights:</b> Live actionable suggestions pinpointing weak structural vulnerabilities.</li>
-        <li><b>Cryptographic Generator:</b> Generates mathematically randomized tokens immune to rainbow-table attacks.</li>
-      </ul>
-    </td>
-  </tr>
+<table>
+  <thead>
+    <tr>
+      <th width="50%">🎨 Multimodal Image Generation Studio</th>
+      <th width="50%">🔍 Intelligent Code Reviewer & Explainer</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <div align="center">
+          <a href="https://github.com/rahulg2004/DecodeLabs-Project-3-Multimodal-Image-Generation-Studio-rahulgupta">
+            <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=rahulg2004&repo=DecodeLabs-Project-3-Multimodal-Image-Generation-Studio-rahulgupta&theme=tokyonight&border_color=38bdf8&title_color=38bdf8&text_color=94a3b8" width="100%" alt="Multimodal Image Studio Pin"/>
+          </a>
+        </div>
+        <br/>
+        <b>Key Highlights:</b>
+        <ul>
+          <li>Transforms natural-language ideas into high-resolution visual artwork and assets.</li>
+          <li>Interactive prompt refinement pipeline with negative prompts & aspect control.</li>
+          <li>Responsive Streamlit dashboard with instant visual rendering and export.</li>
+        </ul>
+        <p align="center">
+          <img src="https://img.shields.io/badge/GenAI_Vision-F59E0B?style=flat-square&logo=openai&logoColor=white" alt="GenAI Vision"/>
+          <img src="https://img.shields.io/badge/Streamlit_UI-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        </p>
+        <p align="center">
+          <a href="https://github.com/rahulg2004/DecodeLabs-Project-3-Multimodal-Image-Generation-Studio-rahulgupta">
+            <img src="https://img.shields.io/badge/Launch_Repository-%E2%96%B6-00f2fe?style=for-the-badge&labelColor=0d1117" alt="Launch Repo"/>
+          </a>
+        </p>
+      </td>
+      <td valign="top">
+        <div align="center">
+          <a href="https://github.com/rahulg2004/DecodeLabs-Project-4-Intelligent-Code-Reviewer-rahulgupta">
+            <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=rahulg2004&repo=DecodeLabs-Project-4-Intelligent-Code-Reviewer-rahulgupta&theme=tokyonight&border_color=38bdf8&title_color=38bdf8&text_color=94a3b8" width="100%" alt="Intelligent Code Reviewer Pin"/>
+          </a>
+        </div>
+        <br/>
+        <b>Key Highlights:</b>
+        <ul>
+          <li>Automated source code auditing utility powered by Google Gemini models.</li>
+          <li>Detects bugs, syntax anomalies, and anti-patterns with clear explanations.</li>
+          <li>Generates optimized, refactored, PEP8-compliant replacement code.</li>
+        </ul>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
+          <img src="https://img.shields.io/badge/Code_Audit-22c55e?style=flat-square" alt="Audit"/>
+          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+        </p>
+        <p align="center">
+          <a href="https://github.com/rahulg2004/DecodeLabs-Project-4-Intelligent-Code-Reviewer-rahulgupta">
+            <img src="https://img.shields.io/badge/Launch_Repository-%E2%96%B6-00f2fe?style=for-the-badge&labelColor=0d1117" alt="Launch Repo"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-<!-- ==================== PROJECT 3: MULTIMODAL IMAGE STUDIO ==================== -->
-<table width="100%">
-  <tr>
-    <td width="38%" align="center" valign="middle">
-      <a href="https://github.com/rahulg2004/DecodeLabs-Project-3-Multimodal-Image-Generation-Studio-rahulgupta">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=rahulg2004&repo=DecodeLabs-Project-3-Multimodal-Image-Generation-Studio-rahulgupta&theme=tokyonight&border_color=38bdf8&title_color=38bdf8&text_color=94a3b8" width="100%" alt="Multimodal Image Studio Pin"/>
-      </a>
-      <br/>
-      <a href="https://github.com/rahulg2004/DecodeLabs-Project-3-Multimodal-Image-Generation-Studio-rahulgupta">
-        <img src="https://img.shields.io/badge/Launch_Repository-%E2%96%B6-00f2fe?style=for-the-badge&labelColor=0d1117" alt="Launch Repo"/>
-      </a>
-    </td>
-    <td width="62%" valign="top">
-      <h3>🎨 Multimodal Image Generation Studio</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Classification-GenAI_Vision-F59E0B?style=flat-square&logo=openai&logoColor=white" alt="GenAI Vision"/>
-        <img src="https://img.shields.io/badge/Interface-Streamlit_UI-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-        <img src="https://img.shields.io/badge/Org-DecodeLabs-38bdf8?style=flat-square" alt="DecodeLabs"/>
-      </p>
-      <p>A full-featured creative generative AI application built with <b>Python and Streamlit</b> that converts complex natural-language descriptions into high-resolution visual art and concept designs.</p>
-      <ul>
-        <li><b>Generative Synthesis:</b> Interactive prompt refinement pipeline with negative prompting and aspect-ratio control.</li>
-        <li><b>Responsive UI:</b> Streamlit dashboard with instant visual rendering and asset export mechanisms.</li>
-        <li><b>Tech Stack:</b> <code>Python</code> • <code>Streamlit</code> • <code>Generative Models</code> • <code>Image Processing</code></li>
-      </ul>
-    </td>
-  </tr>
+<table>
+  <thead>
+    <tr>
+      <th width="50%">🎓 High-Performance Student Management System</th>
+      <th width="50%">✨ AI Copywriter & Marketing Synthesis</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <div align="center">
+          <a href="https://github.com/rahulg2004/Thiranex-Project-1-Student-Management-System-rahulgupta">
+            <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=rahulg2004&repo=Thiranex-Project-1-Student-Management-System-rahulgupta&theme=tokyonight&border_color=38bdf8&title_color=38bdf8&text_color=94a3b8" width="100%" alt="Thiranex Student Management Pin"/>
+          </a>
+        </div>
+        <br/>
+        <b>Key Highlights:</b>
+        <ul>
+          <li>Zero-dependency native C++ console architecture implementing structured record indexing.</li>
+          <li>Persistent binary file storage for rapid record addition, search, update & deletion.</li>
+          <li>Engineered for memory efficiency, zero runtime crashes, and algorithmic speed.</li>
+        </ul>
+        <p align="center">
+          <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+          <img src="https://img.shields.io/badge/Binary_File_I%2FO-4A5568?style=flat-square" alt="File I/O"/>
+          <img src="https://img.shields.io/badge/CLI_Engine-10B981?style=flat-square" alt="CLI"/>
+        </p>
+        <p align="center">
+          <a href="https://github.com/rahulg2004/Thiranex-Project-1-Student-Management-System-rahulgupta">
+            <img src="https://img.shields.io/badge/Launch_Repository-%E2%96%B6-00f2fe?style=for-the-badge&labelColor=0d1117" alt="Launch Repo"/>
+          </a>
+        </p>
+      </td>
+      <td valign="top">
+        <div align="center">
+          <a href="https://github.com/rahulg2004/DecodeLabs-Project-2-Copywriter-rahulgupta">
+            <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=rahulg2004&repo=DecodeLabs-Project-2-Copywriter-rahulgupta&theme=tokyonight&border_color=38bdf8&title_color=38bdf8&text_color=94a3b8" width="100%" alt="DecodeLabs Copywriter Pin"/>
+          </a>
+        </div>
+        <br/>
+        <b>Key Highlights:</b>
+        <ul>
+          <li>Transforms product descriptions into platform-specific marketing copy.</li>
+          <li>Dynamic prompt frameworks with tone control, persona tuning, and brand voices.</li>
+          <li>Stochastic parameter tuning utilizing Temperature and Top-P controls.</li>
+        </ul>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini"/>
+          <img src="https://img.shields.io/badge/Prompt_Engineering-38bdf8?style=flat-square" alt="Prompting"/>
+          <img src="https://img.shields.io/badge/Tone_Tuning-F59E0B?style=flat-square" alt="Tuning"/>
+        </p>
+        <p align="center">
+          <a href="https://github.com/rahulg2004/DecodeLabs-Project-2-Copywriter-rahulgupta">
+            <img src="https://img.shields.io/badge/Launch_Repository-%E2%96%B6-00f2fe?style=for-the-badge&labelColor=0d1117" alt="Launch Repo"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-<!-- ==================== PROJECT 4: INTELLIGENT CODE REVIEWER ==================== -->
-<table width="100%">
-  <tr>
-    <td width="38%" align="center" valign="middle">
-      <a href="https://github.com/rahulg2004/DecodeLabs-Project-4-Intelligent-Code-Reviewer-rahulgupta">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=rahulg2004&repo=DecodeLabs-Project-4-Intelligent-Code-Reviewer-rahulgupta&theme=tokyonight&border_color=38bdf8&title_color=38bdf8&text_color=94a3b8" width="100%" alt="Intelligent Code Reviewer Pin"/>
-      </a>
-      <br/>
-      <a href="https://github.com/rahulg2004/DecodeLabs-Project-4-Intelligent-Code-Reviewer-rahulgupta">
-        <img src="https://img.shields.io/badge/Launch_Repository-%E2%96%B6-00f2fe?style=for-the-badge&labelColor=0d1117" alt="Launch Repo"/>
-      </a>
-    </td>
-    <td width="62%" valign="top">
-      <h3>🔍 Intelligent Code Reviewer & Explainer</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Classification-Developer_Utility-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Dev Utility"/>
-        <img src="https://img.shields.io/badge/Static_Audit-Active-22c55e?style=flat-square" alt="Audit Active"/>
-        <img src="https://img.shields.io/badge/Org-DecodeLabs-38bdf8?style=flat-square" alt="DecodeLabs"/>
-      </p>
-      <p>An autonomous code analysis utility leveraging <b>Google Gemini</b> to review source code, discover logic vulnerabilities, explain syntax nuances in plain English, and output refactored code.</p>
-      <ul>
-        <li><b>Automated Bug Hunting:</b> Identifies anti-patterns, edge-case regressions, and security leaks.</li>
-        <li><b>Refactoring Engine:</b> Synthesizes optimized, PEP8/clean-code compliant drop-in replacements.</li>
-        <li><b>Tech Stack:</b> <code>Python</code> • <code>Streamlit</code> • <code>Google Gemini API</code> • <code>AST Analysis</code></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<h2 id="project-archive">Project Archive</h2>
+<p>Comprehensive repository archive covering internships, algorithmic systems, and utilities:</p>
 
-<!-- ==================== PROJECT 5: STUDENT MANAGEMENT SYSTEM ==================== -->
-<table width="100%">
-  <tr>
-    <td width="38%" align="center" valign="middle">
-      <a href="https://github.com/rahulg2004/Thiranex-Project-1-Student-Management-System-rahulgupta">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=rahulg2004&repo=Thiranex-Project-1-Student-Management-System-rahulgupta&theme=tokyonight&border_color=38bdf8&title_color=38bdf8&text_color=94a3b8" width="100%" alt="Thiranex Student Management Pin"/>
-      </a>
-      <br/>
-      <a href="https://github.com/rahulg2004/Thiranex-Project-1-Student-Management-System-rahulgupta">
-        <img src="https://img.shields.io/badge/Launch_Repository-%E2%96%B6-00f2fe?style=for-the-badge&labelColor=0d1117" alt="Launch Repo"/>
-      </a>
-    </td>
-    <td width="62%" valign="top">
-      <h3>🎓 High-Performance Student Management System</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Classification-Systems_Engineering-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="Systems"/>
-        <img src="https://img.shields.io/badge/Memory_Efficiency-High-22c55e?style=flat-square" alt="High Efficiency"/>
-        <img src="https://img.shields.io/badge/Org-Thiranex-38bdf8?style=flat-square" alt="Thiranex"/>
-      </p>
-      <p>A native C++ console management engine implementing persistent file storage, binary search algorithms, and structured CRUD operations for institutional student record indexing.</p>
-      <ul>
-        <li><b>Persistent Storage:</b> Custom file I/O layer guaranteeing record integrity across process restarts.</li>
-        <li><b>Zero-Dependency:</b> Engineered purely with modern standard C++ for peak execution speed.</li>
-        <li><b>Tech Stack:</b> <code>C++</code> • <code>Binary File I/O</code> • <code>Algorithms</code> • <code>CLI Architecture</code></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- INTERACTIVE COLLAPSIBLE REPOSITORY ARCHIVE -->
-<details>
-  <summary><b>📂 [EXPAND_ARCHIVE] Complete Engineering & Internship Repository Vault (10+ Additional Projects)</b></summary>
-  <br/>
-  
-  <table>
+<table>
+  <thead>
     <tr>
       <th>Project Name</th>
       <th>Specialization</th>
       <th>Primary Stack</th>
-      <th>Action</th>
+      <th>Repository Action</th>
     </tr>
-    <tr>
-      <td><b>✨ AI Copywriter</b></td>
-      <td>Generative Marketing Synthesis & Tone Control</td>
-      <td><code>Google Gemini</code> • <code>Python</code></td>
-      <td><a href="https://github.com/rahulg2004/DecodeLabs-Project-2-Copywriter-rahulgupta"><b>[View Repo]</b></a></td>
-    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td><b>🎯 Object Detection & Tracking</b></td>
       <td>Computer Vision & Bounding Box Localization</td>
@@ -290,103 +308,114 @@ const rahulGupta: SecurityResearcher & AIEngineer = {
       <td><code>C++</code> • <code>CLI Logic</code></td>
       <td><a href="https://github.com/rahulg2004/Thiranex-Project-4-Mini-Game-Tic-Tac-Toe-rahulgupta"><b>[View Repo]</b></a></td>
     </tr>
-  </table>
-</details>
+  </tbody>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&animation=scaleIn" width="100%"/>
-
-<a id="-tech-arsenal"></a>
-### 🛠️ `[03 // TECH_ARSENAL]` Weapons of Choice & Capability Matrix
+<h2 id="tech-arsenal">Tech Arsenal</h2>
 
 <table>
-  <tr>
-    <td width="28%" align="center"><b>Domain</b></td>
-    <td width="72%"><b>Technologies & Frameworks</b></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🧠 AI & Machine Learning</b></td>
-    <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" height="38"/></a>
-      &nbsp;
-      <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NLTK-38bdf8?style=for-the-badge&logoColor=black&labelColor=0d1117"/>
-      <img src="https://img.shields.io/badge/NLP_Pipelines-00f2fe?style=for-the-badge&logoColor=black&labelColor=0d1117"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🛡️ Systems & Security</b></td>
-    <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,linux,bash,git&theme=dark" height="38"/></a>
-      &nbsp;
-      <img src="https://img.shields.io/badge/Data_Privacy-22c55e?style=for-the-badge&logo=shield&logoColor=white&labelColor=0d1117"/>
-      <img src="https://img.shields.io/badge/Entropy_Analysis-38bdf8?style=for-the-badge&logoColor=black&labelColor=0d1117"/>
-      <img src="https://img.shields.io/badge/CLI_Engines-00f2fe?style=for-the-badge&logoColor=black&labelColor=0d1117"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>⚡ Full-Stack & Frontend</b></td>
-    <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" height="38"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🗄️ Backend & Databases</b></td>
-    <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,flask,mysql,postman&theme=dark" height="38"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🎨 Creative & Multimedia</b></td>
-    <td>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pr,ae,ps,figma&theme=dark" height="38"/></a>
-      &nbsp;
-      <img src="https://img.shields.io/badge/Video_Editing-FF0055?style=for-the-badge&logo=adobe&logoColor=white&labelColor=0d1117"/>
-      <img src="https://img.shields.io/badge/Graphic_Design-FFA500?style=for-the-badge&logoColor=black&labelColor=0d1117"/>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th width="28%" align="center">Domain</th>
+      <th width="72%">Technologies & Frameworks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>🧠 AI & Machine Learning</b></td>
+      <td>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" height="38" alt="Python, PyTorch"/></a>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+        <img src="https://img.shields.io/badge/NLTK-38bdf8?style=for-the-badge&logoColor=black&labelColor=0d1117" alt="NLTK"/>
+        <img src="https://img.shields.io/badge/NLP_Pipelines-00f2fe?style=for-the-badge&logoColor=black&labelColor=0d1117" alt="NLP"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>🛡️ Systems & Security</b></td>
+      <td>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,linux,bash,git&theme=dark" height="38" alt="C++, Linux, Bash, Git"/></a>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Data_Privacy-22c55e?style=for-the-badge&logo=shield&logoColor=white&labelColor=0d1117" alt="Data Privacy"/>
+        <img src="https://img.shields.io/badge/Entropy_Analysis-38bdf8?style=for-the-badge&logoColor=black&labelColor=0d1117" alt="Entropy"/>
+        <img src="https://img.shields.io/badge/CLI_Engines-00f2fe?style=for-the-badge&logoColor=black&labelColor=0d1117" alt="CLI"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>⚡ Full-Stack & Frontend</b></td>
+      <td>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" height="38" alt="Frontend"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>🗄️ Backend & Databases</b></td>
+      <td>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,flask,mysql,postman&theme=dark" height="38" alt="Backend"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>🎨 Creative & Multimedia</b></td>
+      <td>
+        <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pr,ae,ps,figma&theme=dark" height="38" alt="Creative"/></a>
+        &nbsp;
+        <img src="https://img.shields.io/badge/Video_Editing-FF0055?style=for-the-badge&logo=adobe&logoColor=white&labelColor=0d1117" alt="Video Editing"/>
+        <img src="https://img.shields.io/badge/Graphic_Design-FFA500?style=for-the-badge&logoColor=black&labelColor=0d1117" alt="Graphic Design"/>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&animation=scaleIn" width="100%"/>
+<h2 id="github-telemetry">GitHub Telemetry & Analytics</h2>
 
-<a id="-analytics--metrics"></a>
-### 📊 `[04 // TELEMETRY_ANALYTICS]` Live GitHub Performance Radar
-
-<div align="center">
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahulg2004&show_icons=true&theme=tokyonight&border_color=38bdf8&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&count_private=true" width="100%" alt="Rahul Gupta GitHub Stats"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahulg2004&layout=compact&theme=tokyonight&border_color=38bdf8&title_color=38bdf8&text_color=94a3b8" width="100%" alt="Top Languages"/>
-    </td>
-  </tr>
+<table>
+  <thead>
+    <tr>
+      <th width="50%">GitHub Performance Stats</th>
+      <th width="50%">Top Languages Distribution</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahulg2004&show_icons=true&theme=tokyonight&border_color=38bdf8&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&count_private=true" width="100%" alt="Rahul Gupta GitHub Stats"/>
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahulg2004&layout=compact&theme=tokyonight&border_color=38bdf8&title_color=38bdf8&text_color=94a3b8" width="100%" alt="Top Languages"/>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
-<br/>
+<table>
+  <thead>
+    <tr>
+      <th width="50%">Contribution Streak</th>
+      <th width="50%">Developer Mindset</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <img src="https://streak-stats.demolab.com?user=rahulg2004&theme=tokyonight&border=38bdf8&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&background=0d1117" width="100%" alt="Rahul Gupta Streak Stats"/>
+      </td>
+      <td align="center">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Developer Quote"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<!-- STREAK STATS -->
-<img src="https://streak-stats.demolab.com?user=rahulg2004&theme=tokyonight&border=38bdf8&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&background=0d1117" width="100%" alt="Rahul Gupta Streak Stats"/>
+<h2 id="diagnostics">Workstation Diagnostics</h2>
 
-<br/><br/>
-
-<!-- DYNAMIC DEV QUOTE -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Developer Quote"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&animation=scaleIn" width="100%"/>
-
-<a id="-system-telemetry"></a>
-### ⚙️ `[05 // DIAGNOSTICS_LOG]` Terminal Specifications & Environment
-
-<details>
-  <summary><b>⚡ CLICK TO EXPAND WORKSTATION & RUNTIME DIAGNOSTICS</b></summary>
-  <br/>
-  
-  <table>
+<table>
+  <thead>
+    <tr>
+      <th width="30%">Environment Layer</th>
+      <th width="70%">Active Specifications</th>
+    </tr>
+  </thead>
+  <tbody>
     <tr>
       <td><b>Terminal & Shell</b></td>
       <td><code>Windows Terminal • WSL2 (Kali Linux / Ubuntu) • PowerShell 7 • Zsh</code></td>
@@ -400,52 +429,39 @@ const rahulGupta: SecurityResearcher & AIEngineer = {
       <td><code>Google Gemini 1.5 / 2.0 • OpenAI Models • LangChain • Prompt Optimization</code></td>
     </tr>
     <tr>
-      <td><b>Defensive / Systems Toolkit</b></td>
+      <td><b>Security Toolkit</b></td>
       <td><code>C++ Standard Library • Wireshark • Data Privacy Protocols • File I/O</code></td>
     </tr>
     <tr>
-      <td><b>Creative Production</b></td>
+      <td><b>Creative Media</b></td>
       <td><code>Adobe Premiere Pro • After Effects • Photoshop • Figma</code></td>
     </tr>
     <tr>
       <td><b>Education & Cohorts</b></td>
       <td><code>3rd Year B.Sc. CS @ University of Delhi (KMV) • DecodeLabs Fellow • Thiranex Lead</code></td>
     </tr>
-  </table>
-</details>
+  </tbody>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&animation=scaleIn" width="100%"/>
-
-<a id="-secure-uplink"></a>
-### 📡 `[06 // TRANSMISSION_UPLINK]` Establish Secure Communication
-
-<div align="center">
-
-<p>Feel free to reach out for collaborations, engineering opportunities, or technical discourse:</p>
+<h2 id="contact-me">Contact Me</h2>
+<p>Feel free to reach out for software engineering roles, AI research collaborations, or technical discourse:</p>
 
 <a href="https://www.linkedin.com/in/rg-rr2004" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;">
 </a>
-&nbsp;
 <a href="https://github.com/rahulg2004" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;">
 </a>
-&nbsp;
 <a href="https://www.instagram.com/rahul_crypted04" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px;">
 </a>
-&nbsp;
-<a href="mailto:rahulgupta18062004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-00f2fe?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117" alt="Email"/>
+<a href="mailto:rahulgupta18062004@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;">
 </a>
 
 <br/><br/>
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" width="100%" alt="Footer Wave"/>
-
-<p align="center">
-  <code>⚡ Engineered with High-Entropy Logic & Neon Synapses • © 2026 Rahul Gupta</code>
-</p>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" width="100%" alt="Footer Wave"/>
+  <p><code>⚡ Engineered with High-Entropy Logic & Neon Synapses • © 2026 Rahul Gupta</code></p>
 </div>
