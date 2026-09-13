@@ -36,7 +36,7 @@
 <a id="-core-intelligence"></a>
 ### 🧠 `[01 // SYSTEM_TELEMETRY]` Core Intelligence & Architecture
 
-
+```typescript
 // 🛰️ INITIALIZING RUNTIME NODE // rahulg2004@github-telemetry
 const rahulGupta: SecurityResearcher & AIEngineer = {
   identity: "Rahul Gupta",
@@ -60,7 +60,7 @@ const rahulGupta: SecurityResearcher & AIEngineer = {
   activeDirective: "Engineering production-grade AI agents and robust cryptographic tools",
   openTo: ["Software Engineering Internships", "AI/ML Roles", "Cybersecurity Collaborations"]
 };
-
+```
 
 ---
 
