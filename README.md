@@ -1,25 +1,55 @@
-<h1 align="center">Hello World! I'm Rahul Gupta! ⚡</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhNN7eM9/giphy.gif" width="36" height="36" align="center" alt="Spinning Wireframe Globe" />
+  Hello World! I'm Rahul Gupta! ⚡
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28" height="28" align="center" alt="Wifi Pulse" />
+</h1>
 
 <div align="center">
+
+  <!-- HERO BANNER -->
   <a href="https://github.com/rahulg2004">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Rahul%20Gupta&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Gen%20AI%20Engineering%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Full-Stack%20Systems&descAlignY=60&descSize=16" width="100%" alt="Rahul Gupta Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Rahul%20Gupta&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Gen%20AI%20Engineering%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Full-Stack%20Systems&descAlignY=60&descSize=16" width="100%" alt="Rahul Gupta Cyber Header" />
   </a>
-  <br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=%3E+Generative+AI+Specialist+%26+Cybersecurity+Researcher;%3E+Full-Stack+Developer%3A+Python+%E2%80%A2+C%2B%2B+%E2%80%A2+React+%E2%80%A2+Node.js;%3E+Engineering+Agentic+AI+%26+Fortified+Digital+Systems;%3E+Status%3A+Open+for+High-Impact+Roles+%26+Collaborations" alt="Typing SVG" />
-  </a>
-  <br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2400&pause=600&color=22c55e&center=true&vCenter=true&width=650&lines=%E2%9A%A1+CURRENTLY+BUILDING%3A+Autonomous+AI+Agents+%26+RAG+Pipelines;%E2%9A%A1+CURRENTLY+RESEARCHING%3A+Offensive+%26+Defensive+Cybersecurity;%E2%9A%A1+CURRENTLY+SEEKING%3A+SDE+%2F+AI+Internships+(Summer+%26+Fall+2026)" alt="Real-time Status Ticker"/>
-  </a>
+
   <br/><br/>
+
+  <!-- PROFILE AVATAR / OPERATOR HUD FRAME -->
+  <!-- NOTE: When your custom profile picture is ready, simply update the src URL below! -->
+  <table border="0">
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://github.com/rahulg2004">
+          <img src="https://github.com/rahulg2004.png" width="140" height="140" style="border-radius: 50%; border: 3px solid #38bdf8;" alt="Rahul Gupta Avatar Placeholder" />
+        </a>
+        <br/>
+        <code>[ 🟢 OPERATOR NODE: ONLINE ]</code>
+      </td>
+      <td valign="middle" align="center">
+        <!-- PRIMARY TYPING PROMPT -->
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=560&lines=%3E+Generative+AI+Specialist+%26+Cybersecurity+Researcher;%3E+Full-Stack+Developer%3A+Python+%E2%80%A2+C%2B%2B+%E2%80%A2+React+%E2%80%A2+Node.js;%3E+Engineering+Agentic+AI+%26+Fortified+Digital+Systems;%3E+Status%3A+Open+for+High-Impact+Roles+%26+Collaborations" alt="Typing SVG" />
+        </a>
+        <br/>
+        <!-- REAL-TIME STATUS TICKER -->
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=2400&pause=600&color=22c55e&center=true&vCenter=true&width=560&lines=%E2%9A%A1+CURRENTLY+BUILDING%3A+Autonomous+AI+Agents+%26+RAG+Pipelines;%E2%9A%A1+CURRENTLY+RESEARCHING%3A+Offensive+%26+Defensive+Cybersecurity;%E2%9A%A1+CURRENTLY+SEEKING%3A+SDE+%2F+AI+Internships+(Summer+%26+Fall+2026)" alt="Real-time Status Ticker"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <!-- TELEMETRY BADGES -->
   <img src="https://img.shields.io/badge/SYSTEM_STATUS-ONLINE-00f2fe?style=for-the-badge&logo=statuspage&logoColor=black&labelColor=0d1117" alt="System Status"/>
   <img src="https://img.shields.io/badge/ROLE-3RD_YEAR_B.SC_CS-38bdf8?style=for-the-badge&logo=academia&logoColor=black&labelColor=0d1117" alt="Role"/>
   <img src="https://img.shields.io/badge/OPEN_FOR-INTERNSHIPS_%26_COLLABS-22c55e?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=0d1117" alt="Open For"/>
   <img src="https://komarev.com/ghpvc/?username=rahulg2004&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/rahulg2004?style=for-the-badge&color=38bdf8&labelColor=0d1117&logo=github&logoColor=white" alt="Followers"/>
+
 </div>
 
+<!-- COMPACT NAVIGATION BAR -->
 <h4 align="center">
   <b><a href="#introduction">Introduction</a></b>
   •
@@ -37,9 +67,24 @@
 </h4>
 
 <h2 id="introduction">Introduction</h2>
-<p>
-  I am a 3rd Year B.Sc. Computer Science student at the University of Delhi (KMV), dedicated to <b>Generative AI Systems</b>, <b>Autonomous Agents</b>, and <b>Defensive Cybersecurity</b>. I bridge the gap between low-level performance engineering (C++) and next-generation intelligence (Google Gemini, OpenAI, RAG, and Streamlit).
-</p>
+
+<table width="100%">
+  <tr>
+    <td width="38%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Cyberpunk Developer Animation" />
+    </td>
+    <td width="62%" valign="top">
+      <p>
+        I am a 3rd Year B.Sc. Computer Science student at the University of Delhi (KMV), specializing in <b>Generative AI Systems</b>, <b>Autonomous Agents</b>, and <b>Defensive Cybersecurity Architecture</b>. I bridge the gap between low-level performance engineering (C++) and next-generation neural intelligence (Google Gemini, OpenAI, RAG, and Streamlit).
+      </p>
+      <ul>
+        <li>🌐 <b>Global Node:</b> New Delhi, India • Open to Worldwide Remote Roles</li>
+        <li>🧠 <b>Core Focus:</b> Multi-Turn Agentic AI • Search Grounding • Zero-Trust Cryptography</li>
+        <li>⚡ <b>Active Mission:</b> Engineering verifiable AI tools and fortifying credential security surfaces</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ```typescript
 // 🛰️ INITIALIZING RUNTIME NODE // rahulg2004@github-telemetry
@@ -68,7 +113,10 @@ const rahulGupta: SecurityResearcher & AIEngineer = {
 ```
 
 <h2 id="featured-projects">Featured Projects</h2>
-<p>Production-grade flagship deployments spanning Generative AI, Cryptographic Security, Computer Vision, and Core Systems Engineering:</p>
+<p>
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="18" height="18" align="center" alt="Signal Pulse" />
+  Production-grade flagship deployments spanning Generative AI, Cryptographic Security, Computer Vision, and Core Systems Engineering:
+</p>
 
 <table>
   <thead>
@@ -151,7 +199,7 @@ const rahulGupta: SecurityResearcher & AIEngineer = {
         <ul>
           <li>Transforms natural-language ideas into high-resolution visual artwork and assets.</li>
           <li>Interactive prompt refinement pipeline with negative prompts & aspect control.</li>
-          <li>Responsive Streamlit dashboard with instant visual rendering and export.</li>
+          <li>Responsive Streamlit dashboard with instant visual rendering and asset export.</li>
         </ul>
         <p align="center">
           <img src="https://img.shields.io/badge/GenAI_Vision-F59E0B?style=flat-square&logo=openai&logoColor=white" alt="GenAI Vision"/>
@@ -174,7 +222,7 @@ const rahulGupta: SecurityResearcher & AIEngineer = {
         <b>Key Highlights:</b>
         <ul>
           <li>Automated source code auditing utility powered by Google Gemini models.</li>
-          <li>Detects bugs, syntax anomalies, and anti-patterns with clear explanations.</li>
+          <li>Detects edge-case bugs, syntax errors, and anti-patterns with plain-English insights.</li>
           <li>Generates optimized, refactored, PEP8-compliant replacement code.</li>
         </ul>
         <p align="center">
@@ -212,7 +260,7 @@ const rahulGupta: SecurityResearcher & AIEngineer = {
         <ul>
           <li>Zero-dependency native C++ console architecture implementing structured record indexing.</li>
           <li>Persistent binary file storage for rapid record addition, search, update & deletion.</li>
-          <li>Engineered for memory efficiency, zero runtime crashes, and algorithmic speed.</li>
+          <li>Engineered for high execution speed, low memory overhead, and crash resiliency.</li>
         </ul>
         <p align="center">
           <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
@@ -254,7 +302,10 @@ const rahulGupta: SecurityResearcher & AIEngineer = {
 </table>
 
 <h2 id="project-archive">Project Archive</h2>
-<p>Comprehensive repository archive covering internships, algorithmic systems, and utilities:</p>
+<p>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhNN7eM9/giphy.gif" width="18" height="18" align="center" alt="Archive Globe" />
+  Comprehensive repository archive covering internships, algorithmic systems, and utilities:
+</p>
 
 <table>
   <thead>
@@ -371,7 +422,10 @@ const rahulGupta: SecurityResearcher & AIEngineer = {
 <table>
   <thead>
     <tr>
-      <th width="50%">GitHub Performance Stats</th>
+      <th width="50%">
+        <img src="https://media.giphy.com/media/QssGEmpkyEOhNN7eM9/giphy.gif" width="20" height="20" align="center" alt="Globe" />
+        GitHub Performance Stats
+      </th>
       <th width="50%">Top Languages Distribution</th>
     </tr>
   </thead>
@@ -390,7 +444,10 @@ const rahulGupta: SecurityResearcher & AIEngineer = {
 <table>
   <thead>
     <tr>
-      <th width="50%">Contribution Streak</th>
+      <th width="50%">
+        <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="18" height="18" align="center" alt="Pulse" />
+        Contribution Streak
+      </th>
       <th width="50%">Developer Mindset</th>
     </tr>
   </thead>
@@ -443,7 +500,10 @@ const rahulGupta: SecurityResearcher & AIEngineer = {
   </tbody>
 </table>
 
-<h2 id="contact-me">Contact Me</h2>
+<h2 id="contact-me">
+  Contact Me
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="22" height="22" align="center" alt="Signal" />
+</h2>
 <p>Feel free to reach out for software engineering roles, AI research collaborations, or technical discourse:</p>
 
 <a href="https://www.linkedin.com/in/rg-rr2004" target="_blank">
